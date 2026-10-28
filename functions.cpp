@@ -1,6 +1,6 @@
 //1. Function With Return Value
 //👉 Returns a value using return
-
+/*
 #include <iostream>
 using namespace std;
 int add() {
@@ -9,7 +9,7 @@ int add() {
 }
 int main() {
     cout << add();
-}
+}*/
 
 
 
