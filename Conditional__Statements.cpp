@@ -13,10 +13,11 @@ int main() {
             cout << "positive number " ;
     }
     else{
-         cout << "Negative number" ;
+         cout << "Negative numberr" ;
     }
    
     return 0;
+
 }*/
 
 
