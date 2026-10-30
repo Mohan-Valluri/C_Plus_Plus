@@ -1,4 +1,4 @@
-// Read two integers and print their sum
+// Read two integers and print their summ
 #include <iostream>
 using namespace std;
 int cnt =0;
