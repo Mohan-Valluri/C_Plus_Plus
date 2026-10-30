@@ -19,7 +19,7 @@ int main () {
 }
 */
 
-// Print name N times
+// Print namee N times
 /*
 #include<bits/stdc++.h>
 using namespace std;
