@@ -1,7 +1,7 @@
 //Given an array of integers, use hashing to count the frequency of each element and print the result.
 
 
-//Normal Method
+//Normal Methodd
 /*
 #include<bits./stdc++.h>
 using namespace std;
