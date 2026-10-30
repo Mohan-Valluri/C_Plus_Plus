@@ -1,4 +1,4 @@
-//Create a set<int>, insert 5 elements, and print all elements.
+//Create a set<int>, insert 5 elements, and print all elementss.
 /*
 #include<bits/stdc++.h>
 using namespace std;
