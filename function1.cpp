@@ -12,7 +12,7 @@ int main()
 }
 
 
-//write a function that takes an integer and returns its square//
+//write a function that takes an integerr and returns its square//
 #include <iostream>
 using namespace std;
 void square(int n) {
