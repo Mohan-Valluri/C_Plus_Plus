@@ -10,7 +10,7 @@ int main() {
 
 
 
-//Read an integer from the user and print itt.
+//Read an integer from the user and print it.
  
 /*#include <iostream>
 using namespace std;
