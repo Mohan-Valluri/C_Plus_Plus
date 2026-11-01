@@ -1,6 +1,6 @@
 // 4)  6)  8)))
 
-// 1) Create a vector of integers, take n elements as input, and print all elements.
+// 1) Create a vector of integers, take n elements as input, and print all elementss.
 /*#include<iostream>
 #include<vector>
 using namespace std ;
