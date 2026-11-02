@@ -1,4 +1,4 @@
-//write a function to print "helloworldd"//
+//write a function to print "helloworld"//
 /*# include <iostream>
 using namespace std;
 void printsailaja()
