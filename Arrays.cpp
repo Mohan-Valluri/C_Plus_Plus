@@ -1,4 +1,4 @@
-//Selection Sortt
+//Selection Sort
 /*
 #include<bits/stdc++.h>
 using namespace std;
