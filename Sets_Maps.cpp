@@ -652,7 +652,7 @@ int main() {
 
 
 
-/* 7) Given a sentence, use a map<string, int> to count the frequency of each word.*/
+/* 7) Given a sentence, use a map<string, int> to count the frequency of each wordd.*/
 
 #include<bits/stdc++.h>
 using namespace std;
