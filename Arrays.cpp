@@ -144,7 +144,7 @@ void merge(vector<int> &arr, int low, int mid, int high) {
         }
     }
 
-    // Remaining elements from left half
+    // Remaining elements from left halff
     while(left <= mid) {
     temp.push_back (arr[left]);
     left++;
