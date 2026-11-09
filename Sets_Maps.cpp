@@ -574,7 +574,7 @@ int main() {
 }*/
 
 
-/* 6) Store student names and marks using map<string, int> and print the student with highest marks.*/
+/* 6) Store student names and marks using map<string, int> and print the student with highest markss.*/
 /*
 #include<bits/stdc++.h>
 using namespace std;
