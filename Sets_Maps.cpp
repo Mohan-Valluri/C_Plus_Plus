@@ -564,7 +564,7 @@ int main() {
         m[x]++;
     }
 
-    for(auto x : l){        /*Here we used list because they ask for 1st non repeating element*/
+    for(auto x : l){        /*Here we used list because they ask for 1st non repeating elementt*/
     /*
         if(m[x] == 1){
             cout << "The 1st non-repeating integer is " << x;
