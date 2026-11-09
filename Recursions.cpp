@@ -1,4 +1,4 @@
-//Factorial of a numbere
+//Factorial of a numberee
 /*
 #include<bits/stdc++.h>
 using namespace std;
