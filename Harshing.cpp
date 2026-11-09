@@ -1,4 +1,4 @@
-//Given an array of integers, use hashing to count the frequency of each element and print the resullt.
+//Given an array of integers, use hashing to count the frequency of each element and print the result.
 
 
 //Normal Methodd
