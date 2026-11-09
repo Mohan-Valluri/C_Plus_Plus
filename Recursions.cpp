@@ -1,4 +1,4 @@
-//Factorial of a number
+//Factorial of a numbere
 /*
 #include<bits/stdc++.h>
 using namespace std;
@@ -59,7 +59,7 @@ int main (){
 }*/
 
 
-//Print Linearly from N-1;
+//Print Linearly from N-1
 
 
 
