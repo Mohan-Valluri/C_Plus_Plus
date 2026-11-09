@@ -121,7 +121,7 @@ int main() {
 
 
 
-// Merge Soting 
+// Merge Sotingg
 /*
 #include <vector>
 using namespace std;
