@@ -1,4 +1,4 @@
-//Left rotate an array by one
+//Left rotate an array by onee
 
 #include<bits/stdc++.h>
 using namespace std;
