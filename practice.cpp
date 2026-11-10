@@ -93,7 +93,7 @@ int main(){
 
 
 //Read an integer n and print all numbers between 1 and n that are both prime and palindrome.
-/*
+
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
@@ -126,7 +126,7 @@ int main(){
         sum = 0;    
         count = 0;
     }   
-}*/
+}
 
 /*
 #include<bits/stdc++.h>
@@ -204,7 +204,7 @@ int main () {
     
 }*/
 
-
+/*
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -221,4 +221,4 @@ int main() {
 cout << printHello() << endl;
 
 return 0;
-}
+}*/
