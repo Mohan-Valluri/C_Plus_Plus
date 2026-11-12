@@ -1,4 +1,4 @@
-// GCD,LCM problemm
+// GCD,LCM problemmm
 
 
 
