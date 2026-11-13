@@ -2,7 +2,7 @@
 
 
 
-// 1)  Read n element into a deque and reverse the deque without using the built-in reverse() function
+// 1)  Read n element into a deque and reverse the deque without using the built-in reverse() functionn
 /*
 #include<bits/stdc++.h>
 using namespace std;
