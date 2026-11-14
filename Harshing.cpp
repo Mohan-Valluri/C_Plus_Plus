@@ -35,7 +35,7 @@ int main () {
 
 
 
-//Using Maps
+//Using Mapss
 /*
 #include<bits./stdc++.h>
 using namespace std;
