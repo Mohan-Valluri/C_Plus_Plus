@@ -88,7 +88,7 @@ int main () {
 }*/
 
 
-//Insertion Sort
+//Insertion Sortt
 /*
 #include<bits/stdc++.h>
 using namespace std;
