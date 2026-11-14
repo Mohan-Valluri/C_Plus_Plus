@@ -292,7 +292,7 @@ int main(){
 
 
 
-//Given a deque of integers, remove all elements that are smaller than the element immediately before them (keep only elements that maintain a non-decreasing order).
+//Given a deque of integerss, remove all elements that are smaller than the element immediately before them (keep only elements that maintain a non-decreasing order).
 /*
 #include<bits/stdc++.h>
 using namespace std;
