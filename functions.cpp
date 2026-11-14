@@ -858,7 +858,7 @@ int main(){
 }*/
 
 
-// Write a function that takes a number and returns the largest digit in itt.
+// Write a function that takes a number and returns the largest digit in it.
 /*#include <iostream>
 using namespace std;
 
