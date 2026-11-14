@@ -250,7 +250,7 @@ int main() {
 }*/
 
 
-/*Read a string and print it in the following formatt:
+/*Read a string and print it in the following format:
 Original string
 Uppercase
 Lowercase
