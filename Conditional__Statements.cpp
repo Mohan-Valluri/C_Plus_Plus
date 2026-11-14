@@ -314,7 +314,7 @@ int main() {
 
 
 
-//Read three sides of a triangle and check whether it is valid, and if valid, determine its type.
+//Read three sides of a triangle and check whether it is valid, and if valid, determine its typee.
 /*#include <iostream>
 using namespace std;
 
