@@ -2,7 +2,7 @@
 
 
 
-//1) Declare variables of type int, float, double, and char. Read values from the user and print them.
+//1) Declare variables of type int, float, double, and char. Read values from the user and print themm.
 /*#include <iostream>
 using namespace std;
 
