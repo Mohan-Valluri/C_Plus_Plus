@@ -1,7 +1,7 @@
 
 
 
-//Read an integer and check whether it is positive or negativeee.
+//Read an integer and check whether it is positive or negative.
 /*#include <iostream>
 using namespace std;
 
