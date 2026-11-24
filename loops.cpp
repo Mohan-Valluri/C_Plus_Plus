@@ -342,7 +342,7 @@ int main() {
 
 
 
-//Read a number and find the sum of all even digits and odd digits separately.
+//Read a number and find the sum of all even digits and odd digits separatelyy.
 
 
 #include <iostream>
