@@ -338,7 +338,7 @@ int main() {
 }*/
 
 
-//Read a numeric character and convert it into its integer value without using library functions.
+//Read a numeric character and convert it into its integer value without using library functionss.
 #include <iostream>
 using namespace std;
 
